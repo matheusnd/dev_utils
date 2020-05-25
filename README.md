@@ -1,2 +1,3 @@
 # dev_utils
-Contains useful commands
+This repo will contains useful commands to test and run projects.
+
